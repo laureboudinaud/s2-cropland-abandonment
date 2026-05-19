@@ -65,6 +65,9 @@ Inspired by the TimeScan approach (Esch et al., 2018), the 3PTS encodes cropland
 
 Croplands are identified by their characteristic NDVI trajectory: low early in the season, rapidly rising to a peak, then sharply declining at harvest. This temporal signature produces vivid, distinct colours on the 3PTS composite. Natural vegetation shows lower variation and appears in grey tones. Settlements and bare ground appear black throughout.
 
+![3PTS methodology](outputs/figures/3pts_methodology.png)
+*The 3-Period TimeScan encodes max-NDVI values at three phases of the study area's agricultural season into a single RGB composite.*
+
 ### Data
 
 - **Sentinel-2 L1C** (top-of-atmosphere reflectance) was used in the original study rather than L2A, because L2A products were not systematically available in GEE for earlier years: 721 L1C vs 697 L2A tiles for the 2019 season; for 2016 and 2017, no L2A was available at all. A total of **2,039 Sentinel-2 tiles** were processed for the original analysis. The extended script in this repository uses `S2_HARMONIZED` with QA60 cloud masking.
@@ -84,11 +87,10 @@ Rather than automated classification — which proved insufficiently reliable ov
 | No change | No detectable change |
 | Slight increase | < 25% cropland gain |
 
-### Extended script (this repository)
+### Key result (example)
 
-This repository extends the original methodology:
-- Temporal coverage extended to **2016–2022** - easily adaptable to more year
-- **QA60 cloud masking** added (not applied in the original L1C-based analysis)
+![Cropland change Mopti 2019](outputs/figures/mli_mopti_cropland_change_2019.png)
+*Cropland change in the Mopti region, 2019 vs. pre-conflict years. Dot size reflects ACLED violent event density; colour reflects severity of cropland loss.*
 
 ---
 
