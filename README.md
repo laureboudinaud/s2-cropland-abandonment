@@ -59,7 +59,7 @@ Inspired by the TimeScan approach (Esch et al., 2018), the 3PTS encodes cropland
 
 | Band | Period | DOY | Phenological phase |
 |---|---|---|---|
-| **R** | ~15 Jun – 1 Aug | 166–213 | Land preparation / early growth |
+| **R** | 15 Jun – 1 Aug | 166–213 | Land preparation / early growth |
 | **G** | 2 Aug – 1 Sep | 214–244 | Peak growing season |
 | **B** | 2 Sep – 15 Oct | 245–288 | Harvest |
 
