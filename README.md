@@ -1,3 +1,5 @@
+# s2-cropland-abandonment
+
 Assessing conflict-driven cropland abandonment in central Mali using Sentinel-2 time-series and Google Earth Engine.
 
 ---
