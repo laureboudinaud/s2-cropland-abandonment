@@ -126,7 +126,7 @@ Edit the `CONFIGURATION` block at the top (commune, years, thresholds) and run.
 
 ## Authors
 
-**Laure Boudinaud** — Galateo Analytics | [github.com/laureboudinaud](https://github.com/laureboudinaud)  
+**Laure Boudinaud** | [github.com/laureboudinaud](https://github.com/laureboudinaud)  
 *Formerly: WFP Regional Bureau of West and Central Africa, VAM Unit, Dakar*
 
 ---
