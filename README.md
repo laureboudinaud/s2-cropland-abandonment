@@ -90,7 +90,7 @@ Rather than automated classification — which proved insufficiently reliable ov
 ### Key result (example)
 
 ![Cropland change Mopti 2019](outputs/figures/mli_mopti_cropland_change_2019.png)
-*Cropland change in the Mopti region, 2019 vs. pre-conflict years. Dot size reflects ACLED violent event density; colour reflects severity of cropland loss.*
+*Cropland change in the Mopti region, 2019 vs. pre-conflict years and violent events*
 
 ---
 
