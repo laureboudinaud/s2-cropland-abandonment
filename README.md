@@ -126,9 +126,10 @@ Edit the `CONFIGURATION` block at the top (commune, years, thresholds) and run.
 
 ---
 
-## Authors
+## Contact
 
 **Laure Boudinaud** | [github.com/laureboudinaud](https://github.com/laureboudinaud)  
+laure@galateo-analytics.com | laure.boudinaud@gmail.com
 *Formerly: WFP Regional Bureau of West and Central Africa, VAM Unit, Dakar*
 
 ---
@@ -139,3 +140,9 @@ MIT License — see `LICENSE` for details.
 Sentinel-2 imagery: © ESA / Copernicus, CC BY 4.0.  
 ACLED data: [acleddata.com](https://acleddata.com) — free for non-commercial research use with attribution.  
 OSM data: © OpenStreetMap contributors, ODbL.
+
+---
+
+## Acknowledgements
+
+This work was developed in the framework of a project on the detection of impacts of armed violence on food security and agriculture in hard-to-reach areas, implemented by WFP Mali Country Office in 2019-2021 and WFP Regional Bureau of West and Central Africa since 2021.
