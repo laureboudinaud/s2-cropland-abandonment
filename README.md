@@ -1,6 +1,6 @@
 # s2-cropland-abandonment
 
-Assessing conflict-driven cropland abandonment in Sahelian landscapes (here: central Mali) processing Sentinel-2 time-series in Google Earth Engine.
+Assessing conflict-driven cropland abandonment in Sahelian landscapes (here: central Mali) processing Sentinel-2 time series in Google Earth Engine.
 
 ---
 
